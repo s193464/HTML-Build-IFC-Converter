@@ -2,4 +2,4 @@
 
 import HTMLBuild as hb
 
-hb.modelLoader("22_03_01")
+hb.modelLoader("duplex")
