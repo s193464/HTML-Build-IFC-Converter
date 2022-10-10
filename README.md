@@ -21,3 +21,7 @@ CSS View - develop multiple CSS files for different use cases.
 Desktop - iframe the output into a comparison of multiple files.
 Compare - Compare different files?
 SVG - perhaps could write the geometric aspects within the DIV as SVGs?
+
+
+
+![Code example](codepic.jpg)
