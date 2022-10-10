@@ -23,5 +23,3 @@ Compare - Compare different files?
 SVG - perhaps could write the geometric aspects within the DIV as SVGs?
 
 
-
-![Code example](codepic.jpg)
