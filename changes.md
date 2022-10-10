@@ -1,4 +1,4 @@
-# Assignemnt 2
+# Assignment 2
 ## Group 6
 ### s220075 and s193464
 
