@@ -1,5 +1,9 @@
+# Assignemnt 2
+## Group 6
+### s220075 and s193464
 
-
+We added an unit for the height of the levels.
+We added a code, to show how many windows there are placed at each level. 
 
 
 
