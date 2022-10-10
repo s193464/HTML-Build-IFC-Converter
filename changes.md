@@ -5,5 +5,5 @@
 
 
 
-![Code example](/desktop/codepic.jpg)
-![HTML index](/desktop/index.html.jpg)
+![Code example](/codepic.jpg)
+![HTML index](/index.html.jpg)
